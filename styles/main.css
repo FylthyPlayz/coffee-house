@@ -1,0 +1,17 @@
+.pageHeader {
+  align-self: center; 
+ 
+}
+.list {
+   display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: center;
+justify-content: space-evenly;
+
+
+}
+.shop{
+    flex-basis: 25%;  /* Make each child element the same width */
+    border: 1px dotted black; 
+}
